@@ -3,7 +3,7 @@ import express from 'express'
 import { middleware, notFound, errorHandler } from '@bigoncloud/middleware'
 
 import { BASE_API_V1 } from './config'
-import { routes } from './routes/v1'
+import { routes } from './components/user/routes/v1'
 
 const app = express()
 
