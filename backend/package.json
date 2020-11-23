@@ -1,5 +1,5 @@
 {
-  "name": "express-typescript-mongo",
+  "name": "express-typescript-mongo-microservice",
   "version": "1.0.0",
   "main": "dist/server.js",
   "license": "MIT",
